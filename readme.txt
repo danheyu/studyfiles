@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 11111111111111
 22222222222222
 33333333333333
@@ -16,3 +17,12 @@ aaaaaaaaaaaaaa
 15998943800
 18716994249
 you are so beautifl
+=======
+aaaaaaaaa
+bbbbbbbbbbbb
+cccccccccccccc
+ddddddddddddd
+fffffffffffff
+eeeeeeeeeeeeeeeeeee
+gggggggggggggggggggggg
+>>>>>>> devc
